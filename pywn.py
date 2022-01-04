@@ -13,7 +13,7 @@ class Wn:
         self.presente_simple = ['o','as / ai' ,'a', 'amos', 'an', 'ai']
         self.conjugaciones_simplepass = ['yo me ', 'tú te ', 'el se ', 'nosotros nos ', 'ellos se ', 'voh (te)']
         self.pasado_simple = ['é','aste', 'ó', 'amos','aron','aste']
-        self.preterito_simple = ['é', 'arás', 'ará','aremos', 'arán','ai']
+        self.preterito_simple = ['é', 'arás', 'ará','aremos', 'arán','arai']
         self.conjugaciones_simplepret = ['yo me ', 'tú te ', 'el se ', 'nosotros nos ', 'ellos se ', 'voh (te) ']
 
         self._PREP_LUGAR = self.PREP_LUGAR()
