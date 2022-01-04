@@ -1,6 +1,6 @@
-# Pyweon, weonaje para todos.
+# Pyweon, weon everywhere...
 #### 
-Pyweon es un esbozo de linguistica e informática(con NLP en python) que intenta enseñar a personas no chilenas a entender como se expresan los chilenos en la cotidianeidad, usando el modismo **weón** y sus variantes.
+Pyweon es un esbozo que intenta enseñar a personas no chilenas a entender como se expresan los chilenos en la cotidianeidad, usando el modismo **weón** y sus variantes.
 
 Se intentará explicar con lenguaje linguístico formal y computacional a las gramáticas que generan las oraciones que contengan la palabra weón.
 
@@ -8,4 +8,4 @@ Te enseñaré a leer definiciones formales que se programarán para poder ser em
 
 De Chile pal mundo.
 
-Fkat.
+Fkatv.
